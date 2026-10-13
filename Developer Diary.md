@@ -2,7 +2,7 @@
 
 AI use Declaration: To design the format and plan the project, I used Claude (Anthropic) to help me. Additionally, I used it to gain inspiration for how to write my responses (Used Grammarly as well for grammar); however, most responses were my own ideas. I also used Claude to draft code; however, most of the troubleshooting of my code, if I did have problems, came from Google Gemini. Additionally, I also used Gemini as the main AI Coach in my app (coding).
 
-Monday 12th October:
+***Monday 12th October:***
 
 Main task- My main task for this day was to plan the overall structure of my assignment and complete part of my finance assistant file. I also had to plan how to finish the project in a week. 
 
@@ -17,7 +17,7 @@ AI responses and my main work for the day:
 - It also drafted the code for the whole app. I didn't build any of it on Monday. MOST WAS DONE ON TUESDAY. 
 
 
-Tuesday 13th October:
+***Tuesday 13th October:***
 
 Main task- Spend the whole day finishing code and troubleshooting with AI (Gemini) and create my six step design. Additionally, I wanted to make sure if my code was viable, so another task was to do so, which was done through classwork knowledge and asking AI to expand on what code it gave me. 
 
@@ -29,21 +29,21 @@ AI responses and my main work for the day:
 
 - after getting Claude's code from my initial prompt on Monday (please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP). I had to make sure the code was right. The first thing I did was run it in Google Colab. On Gemini's error screen, I noticed I was not on the free plan for Google Gemini as Gemini gave me an ERROR 429, which meant I had run out of API key credits and could not use my AI Coach. This meant that i would have to test the majority of my code on wensday. However, from the code I ran without the AI coach, all of my code did work, and the API key did successfully insert itself into my notebook.
 
-Wensday 14th October:
+***Wensday 14th October:***
 
 Main task-
 
 AI responses and my main work for the day:
 
 
-Thursday 15th October:
+***Thursday 15th October:***
 
 Main task-
 
 AI responses and my main work for the day:
 
 
-Friday 16th October:
+***Friday 16th October:***
 
 Main task-
 

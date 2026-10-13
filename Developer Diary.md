@@ -6,18 +6,40 @@ Monday 12th October:
 
 Main task- My main task for this day was to plan the overall structure of my assignment and complete part of my finance assistant file. I also had to plan how to finish the project in a week. 
 
-responses and my main work for the day:
-- I uploaded the assessment brief and asked for a step-by-step plan, and how long the assessment would take. Additionally, I did ask how the assignment should be structured and tackled day by day. It responded with what I have to do each day to finish the project by Friday, and it returned a rough idea of what my project should be and how I should tackle it. This allowed me to plan my week and set specifc times on when to do the assignement. 
-- Based on what Claude gave me, I picked a savings-goal coach due to the fact that I also have a goal of saving towards a trip to Japan with my friends. It also drafted a six-step design in which I reworded and changed up a few attributes to make sure that the design made sense and it would target my specific demographic.
-- It also drafted the code for the whole app. I didn't build any of it on Monday. MOST WAS DONE ON TUESDAY. 
+AI responses and my main work for the day:
 
+- I uploaded the assessment brief and asked for a step-by-step plan, and how long the assessment would take. The exact words I said were: please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP. Additionally, I asked how the assignment should be structured and tackled day by day. It responded with what I have to do each day to finish the project by Friday, and it returned a rough idea of what my project should be and how I should tackle it. This allowed me to plan my week and set specific times on when to do the assignment.
+
+- Based on what Claude gave me, after i asked to go into detail on waht to do, I picked a savings-goal coach due to the fact that I also have a goal of saving towards a trip to Japan with my friends. It also drafted a six-step design in which I reworded and changed up a few attributes to make sure that the design made sense and it would target my specific demographic.
+
+- It also drafted the code for the whole app. I didn't build any of it on Monday. MOST WAS DONE ON TUESDAY. 
 
 
 Tuesday 13th October:
 
+Main task- Spend the whole day finishing code and troubleshoting with ai (Gemini). Additionally I wanted to made sure if my code was viable so another task was to do so which was done through classwork knowledge and asking AI to expand on what code it gave me. 
+
+AI responses and my main work for the day:
+
+- after getting Claudes code from my initial prompt on tuesday (lease go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP). I had to make sure the code was right. The first thing I did was run it in google collab.
+
 Wensday 14th October:
+
+Main task-
+
+AI responses and my main work for the day:
+
 
 Thursday 15th October:
 
+Main task-
+
+AI responses and my main work for the day:
+
+
 Friday 16th October:
+
+Main task-
+
+AI responses and my main work for the day:
 

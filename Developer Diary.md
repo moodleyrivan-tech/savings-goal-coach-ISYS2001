@@ -8,7 +8,9 @@ Main task- My main task for this day was to plan the overall structure of my ass
 
 AI responses and my main work for the day:
 
-- I uploaded the assessment brief and asked for a step-by-step plan, and how long the assessment would take. The exact words I said were: please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP. Additionally, I asked how the assignment should be structured and tackled day by day. It responded with what I have to do each day to finish the project by Friday, and it returned a rough idea of what my project should be and how I should tackle it. This allowed me to plan my week and set specific times on when to do the assignment.
+- I uploaded the assessment brief and asked for a step-by-step plan and how long the assessment would take. The exact words I said were: please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP. Additionally, I asked how the assignment should be structured and tackled day by day. It responded with what I have to do each day to finish the project by Friday, and it returned a rough idea of what my project should be and how I should tackle it. This allowed me to plan my week and set specific times on when to do the assignment.
+
+- The second thing I did was with AI's information, I created the repository and created all files with a short description of the project on my README document, which is likely to be changed later on as I progress with the assignment (DESCRIPTION IS SUBJECT TO CHANGE)
 
 - Based on what Claude gave me, after i asked to go into detail on waht to do, I picked a savings-goal coach due to the fact that I also have a goal of saving towards a trip to Japan with my friends. It also drafted a six-step design in which I reworded and changed up a few attributes to make sure that the design made sense and it would target my specific demographic.
 
@@ -17,11 +19,11 @@ AI responses and my main work for the day:
 
 Tuesday 13th October:
 
-Main task- Spend the whole day finishing code and troubleshoting with ai (Gemini). Additionally I wanted to made sure if my code was viable so another task was to do so which was done through classwork knowledge and asking AI to expand on what code it gave me. 
+Main task- Spend the whole day finishing code and troubleshooting with AI (Gemini). Additionally, I wanted to make sure if my code was viable, so another task was to do so, which was done through classwork knowledge and asking AI to expand on what code it gave me. 
 
 AI responses and my main work for the day:
 
-- after getting Claudes code from my initial prompt on tuesday (lease go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP). I had to make sure the code was right. The first thing I did was run it in google collab.
+- after getting Claude's code from my initial prompt on Tuesday (please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP). I had to make sure the code was right. The first thing I did was run it in Google Colab.
 
 Wensday 14th October:
 

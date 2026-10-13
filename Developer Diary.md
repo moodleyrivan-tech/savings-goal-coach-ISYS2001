@@ -19,9 +19,11 @@ AI responses and my main work for the day:
 
 Tuesday 13th October:
 
-Main task- Spend the whole day finishing code and troubleshooting with AI (Gemini). Additionally, I wanted to make sure if my code was viable, so another task was to do so, which was done through classwork knowledge and asking AI to expand on what code it gave me. 
+Main task- Spend the whole day finishing code and troubleshooting with AI (Gemini) and create my six step design. Additionally, I wanted to make sure if my code was viable, so another task was to do so, which was done through classwork knowledge and asking AI to expand on what code it gave me. 
 
 AI responses and my main work for the day:
+
+- After getting AI's draft of the six step design, from my initial prompt on Monday, I consilidated with myself and decided wether I needed to change up the deseign. In which I did not only decide to reword the design but I also decided to change a few things to better capture my main goal with the coach. This specifically came with demographic changes as claudes original draft was very generic and was not based on my age demographic who have specific savings goals. I changed how claude aimed it at young professionals to rather individuals my age who have a savings goal in mind. I also made sure to add suportive spending habits in my design and reword claudes work in my own wrds. 
 
 - after getting Claude's code from my initial prompt on Tuesday (please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP). I had to make sure the code was right. The first thing I did was run it in Google Colab.
 

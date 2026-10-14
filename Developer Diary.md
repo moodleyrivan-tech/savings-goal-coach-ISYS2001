@@ -27,11 +27,11 @@ AI responses and my main work for the day:
 
 - As a result of changing my target demographic from Claudes to mine, it also meant I had to change what Claude gave me to program the AI coach. This meant changing the prompt I gave the AI coach to use more casual language and target my age demographic, whilst encouraging saving towards the user's goal.
 
-- after getting Claude's code from my initial prompt on Monday (please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP). I had to make sure the code was right. The first thing I did was run it in Google Colab. On Gemini's error screen, I noticed I was not on the free plan for Google Gemini as Gemini gave me an ERROR 429, which meant I had run out of API key credits and could not use my AI Coach. This meant that i would have to test the majority of my code on wensday. However, from the code I ran without the AI coach, all of my code did work, and the API key did successfully insert itself into my notebook.
+- after getting Claude's code from my initial prompt on Monday (please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP). I had to make sure the code was right. The first thing I did was run it in Google Colab. On Gemini's error screen, I noticed I was not on the free plan for Google Gemini as Gemini gave me an ERROR 429, which meant I had run out of API key credits (AI coach requests) and could not use my AI Coach. This meant that i would have to test the majority of my code on wensday. However, from the code I ran without the AI coach, all of my code did work, and the API key did successfully insert itself into my notebook.
 
 ***Wensday 14th October:***
 
-Main task-
+Main task- Run all code that was finalised on Tuesday and check whether it works. Make edits if necessary; however, the main task is to test my code.
 
 AI responses and my main work for the day:
 

@@ -43,8 +43,13 @@ AI responses and my main work for the day:
 
 - Once Sage was working, I tested it properly. I asked it about different situations like how to help with my saving goal, In which it replied with genuine money savings feedback like not overspending on small snacks. I also tried to divert it with “what’s the best ramen in Tokyo?” to see if it would stay on topic. As a result, it said that it would rather stay on a finance topic. This was the testing I said I would do in step 6 of my six-step design. The following images are responses th AI coach gave after tests:
 
+SAVINGS TIPS:
+
 <img width="932" height="658" alt="image" src="https://github.com/user-attachments/assets/11734c95-5c9f-4cc3-87fa-e50ac8b6daf3" />
 
+FINANCE DIVERSION (BEST RAMEN IN TOKYO):
+
+<img width="938" height="480" alt="image" src="https://github.com/user-attachments/assets/77fa26db-4866-4fb7-9e1b-9a3baae22979" />
 
 
 ***Thursday 15th October:***

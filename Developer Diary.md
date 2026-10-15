@@ -35,13 +35,13 @@ Main task- Run all code that was finalised on Tuesday and check whether it works
 
 AI responses and my main work for the day: 
 
--I ran all my code in Google Colab, and the calculator, the tests and the app all worked. I tested the app by trying to break it with a blank field, zero months, a negative goal and expenses higher than income. It handled each one with a clear error message, and my test cells printed “All calculator tests passed.” and “All app tests passed.”
+- I ran all my code in Google Colab, and the calculator, the tests and the app all worked. I tested the app by trying to break it with a blank field, zero months, a negative goal and expenses higher than income. It handled each one with a clear error message, and my test cells printed “All calculator tests passed.” and “All app tests passed.”
 
--The only thing that didn’t work was the AI coach (Sage). When I asked it a question, the app either showed “Error” or kept loading for ages. I asked Claude what was wrong and it helped me work out the errors were coming from Gemini (a 429 rate limit, then a 503 “high demand” error, then a DeadlineExceeded timeout). Claude gave me a try/except block and a timeout so the app shows a message instead of crashing. That fixed the crashing but not Sage, because the problem was Google’s servers and not my code, so Claude couldn’t solve it.
+- The only thing that didn’t work was the AI coach (Sage). When I asked it a question, the app either showed “Error” or kept loading for ages. I asked Claude what was wrong and it helped me work out the errors were coming from Gemini (a 429 rate limit, then a 503 “high demand” error, then a DeadlineExceeded timeout). Claude gave me a try/except block and a timeout so the app shows a message instead of crashing. That fixed the crashing but not Sage, because the problem was Google’s servers and not my code, so Claude couldn’t solve it.
 
--After that I went on the discussion board where the teacher had posted about 503 errors. I followed his tips, switched my model to gemini-3.5-flash-lite. After that Sage replied much faster in under 10 seconds. 
+- After that I went on the discussion board where the teacher had posted about 503 errors. I followed his tips, switched my model to gemini-3.5-flash-lite. After that Sage replied much faster in under 10 seconds. 
 
--Once Sage was working, I tested it properly. I asked it about different situations like bad savings and good savings to see its response.  In which it replied with genuine money savings feedback like not overspending. I also tried to divert it with “what’s the best ramen in Tokyo?” to see if it would stay on topic. As a result, it said that it would rather stay on an finance topic . This was the testing I said I would do in step 6 of my six-step design.
+- Once Sage was working, I tested it properly. I asked it about different situations like bad savings and good savings to see its response.  In which it replied with genuine money savings feedback like not overspending. I also tried to divert it with “what’s the best ramen in Tokyo?” to see if it would stay on topic. As a result, it said that it would rather stay on an finance topic . This was the testing I said I would do in step 6 of my six-step design.
 
 
 ***Thursday 15th October:***

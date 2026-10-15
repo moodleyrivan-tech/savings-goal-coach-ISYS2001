@@ -43,7 +43,8 @@ AI responses and my main work for the day:
 
 - Once Sage was working, I tested it properly. I asked it about different situations like bad savings and good savings to see its response.  In which it replied with genuine money savings feedback like not overspending. I also tried to divert it with “what’s the best ramen in Tokyo?” to see if it would stay on topic. As a result, it said that it would rather stay on an finance topic . This was the testing I said I would do in step 6 of my six-step design.
 
-![Uploading image.png…]()
+<img width="932" height="658" alt="image" src="https://github.com/user-attachments/assets/11734c95-5c9f-4cc3-87fa-e50ac8b6daf3" />
+
 
 
 ***Thursday 15th October:***

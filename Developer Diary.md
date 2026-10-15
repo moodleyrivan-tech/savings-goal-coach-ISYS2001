@@ -8,7 +8,7 @@ Main task- My main task for this day was to plan the overall structure of my ass
 
 AI responses and my main work for the day:
 
-- I uploaded the assessment brief and asked for a step-by-step plan and how long the assessment would take. The exact words I said were: please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP. Additionally, I asked how the assignment should be structured and tackled day by day. It responded with what I have to do each day to finish the project by Friday, and it returned a rough idea of what my project should be and how I should tackle it. This allowed me to plan my week and set specific times on when to do the assignment.
+* I uploaded the assessment brief and asked for a step-by-step plan and how long the assessment would take. The exact words I said were: please go into detail on what to do and how I can complete this project, SPECIFICALLY TELL ME WHAT TO DO STEP BY STEP. Additionally, I asked how the assignment should be structured and tackled day by day. It responded with what I have to do each day to finish the project by Friday, and it returned a rough idea of what my project should be and how I should tackle it. This allowed me to plan my week and set specific times on when to do the assignment.
 
 - The second thing I did was with AI's information, I created the repository and created all files with a short description of the project on my README document, which is likely to be changed later on as I progress with the assignment (DESCRIPTION IS SUBJECT TO CHANGE)
 

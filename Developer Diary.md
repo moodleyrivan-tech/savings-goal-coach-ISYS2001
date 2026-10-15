@@ -14,7 +14,7 @@ AI responses and my main work for the day:
 
 - Based on what Claude gave me, after i asked to go into detail on waht to do, I picked a savings-goal coach due to the fact that I also have a goal of saving towards a trip to Japan with my friends. It also drafted a six-step design in which I reworded and changed up a few attributes to make sure that the design made sense and it would target my specific demographic.
 
-- It also drafted the code for the whole app. I didn't build any of it on Monday. MOST WAS DONE ON TUESDAY. 
+-It also drafted the code for the whole app. I didn't build any of it on Monday. MOST WAS DONE ON TUESDAY. 
 
 
 ***Tuesday 13th October:***

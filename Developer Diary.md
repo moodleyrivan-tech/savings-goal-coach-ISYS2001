@@ -60,7 +60,12 @@ Main task- I did not complete any work on the project on Thursday due to family 
 
 ## Friday 16th October:
 
-Main task-
+Main task- Finish and submit the full project, meaning my main task is to complete my README.md notebook, as it's the last thing I need to do.
 
 AI responses and my main work for the day:
 
+- I asked Claude to help me with the layout of the README.md file. From its response, I reworded it and added extra information, including screenshots and altered the response. I changed the description of Sage to say casual language and not Gen Z slang, because that’s what my system instruction actually tells it to do. I also changed the surplus in the sample output to $600.0, because that’s what my app really prints, and I added a testing section and a known limitations section about the Gemini 503 problem from Wednesday.
+
+- Claude also pointed out that my API key shouldn’t be in my notebook or repo, as the brief says. My key is stored in Colab Secrets, so I added steps to the README explaining that anyone running the project needs to add their own key.
+
+- Hopefully next time, If I did this project again, I’d start earlier so I could spread the coding over the week instead of fitting most of it into Tuesday. 

@@ -1,4 +1,4 @@
-# savings-goal-coach-ISYS2007
+# savings-goal-coach-ISYS2001
 
 This is a repository for Assessment 2 ISYS 2007 in which I chose to make a savings goal coach, which tells you if you're on track to hit your goal.
 

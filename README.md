@@ -31,34 +31,35 @@ Status: On track
 
 If you also type a question for Sage (e.g. "should I still get a coffee every day?"), the app adds Sage's reply under the summary, based on the numbers above. Along with this input, I asked Sage wether I should limit my coffee spending of $5 a day to save money and this was its response with the above firgures: 
 
+<img width="952" height="444" alt="image" src="https://github.com/user-attachments/assets/79d02b9f-2bdf-4d35-97f8-2d39cf93ddca" />
+
+
 
 
 ## How to run
 
 1. Open `finance_assistant.ipynb` in Google Colab.
-2. Get a free Gemini API key from [Google AI Studio](https://aistudio.google.com/).
+2. The AI coach (Sage) needs a Gemini API key. I haven't included mine in this repo, for security. You can get a free key from [Google AI Studio](https://aistudio.google.com/).
 3. In Colab, click the key icon (Secrets) in the left sidebar and add a secret named `GEMINI_API_KEY` with your key as the value. Switch on Notebook access for it.
 4. Run all cells in order, top to bottom (Runtime > Run all).
-5. The Gradio app launches at the bottom of the notebook. Enter your numbers and click Submit.
+5. The Gradio app launches at the bottom of the notebook. Enter your numbers and click Submit. The calculator works even without a key, and Sage needs the key to reply.
+
 
 ## Testing
 
-The notebook has a testing section that checks the calculator and the app with a variety of data: on track, behind target, expenses higher than income, an exact match, decimal amounts, a goal that's already met, and bad input (zero months, negative amounts, blank fields). Both test cells print a pass message when everything works. I also tested Sage by hand, including asking different savings situations and an off-topic question to check it stays on track. Screenshots are in my developer's diary.
+The notebook has a testing section that checks the calculator and the app with a variety of data: on track, behind target, expenses higher than income, an exact match, decimal amounts, a goal that's already met, and bad input (zero months, negative amounts, blank fields). Both test cells print a pass message when everything works. I also tested Sage by hand, including asking about different savings situations and an off-topic question to check that it stays on track. Screenshots are in my developer's diary.
 
 ## Known limitations
 
 - Sage relies on Google's Gemini API. On the free tier it can hit rate limits or return a 503 "high demand" error when Google's servers are busy. The app retries a few times and then shows a friendly message instead of crashing. The calculator works without Sage.
-- The `google.generativeai` package shows a deprecation warning. It still works, but a future improvement would be moving to the newer `google.genai` package.
-- The app assumes a steady monthly income and expenses.
+- The app assumes a steady monthly income and expenses. This means if you have a changing monthly income or savings, it's hard to compute it in the calculator, meaning Sage can't give you a definitive answer on how to save money.
 
 ## Project structure
 
-```
-├── finance_assistant.ipynb   # full project: design, code, tests
-├── README.md                 # this file
-└── DEVELOPER_DIARY.md        # dated log of the build process and AI use
-```
+finance_assistant.ipynb   # full project: design, code, tests
+README.md                 # this file
+DEVELOPER_DIARY.md        # dated log of the build process and AI use
 
 ## AI use
 
-I used Claude (Anthropic) to plan the project and draft code, and Gemini for troubleshooting and as the AI coach inside the app. Details are in `DEVELOPER_DIARY.md`.
+I used Claude (Anthropic) to plan the project and draft code. To finalise code, I used a mix of AI (Claude) and my own knowledge, and Gemini for troubleshooting and as the AI coach inside the app. Details are in DEVELOPER_DIARY.md.

@@ -1,4 +1,4 @@
-**DEVELOPER DIARY: SAVINGS GOAL COACH**
+# Developer Diary: Savings Goal Coach
 
 AI use Declaration: To design the format and plan the project, I used Claude (Anthropic) to help me. Additionally, I used it to gain inspiration for how to write my responses (Used Grammarly as well for grammar); however, most responses were my own ideas. I also used Claude to draft code; however, most of the troubleshooting of my code, if I did have problems, came from Google Gemini. Additionally, I also used Gemini as the main AI Coach in my app (coding).
 

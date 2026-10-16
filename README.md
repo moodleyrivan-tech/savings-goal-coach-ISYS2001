@@ -1,6 +1,6 @@
 # savings-goal-coach-ISYS2001
 
-This is a repository for Assessment 2 ISYS 2007 in which I chose to make a savings goal coach, which tells you if you're on track to hit your goal.
+This is a repository for Assessment 2 ISYS 2001, in which I chose to make a savings goal coach, which tells you if you're on track to hit your goal.
 
 
 ## What it does
@@ -42,7 +42,7 @@ If you also type a question for Sage (e.g. "should I still get a coffee every da
 2. The AI coach (Sage) needs a Gemini API key. I haven't included mine in this repo, for security. You can get a free key from [Google AI Studio](https://aistudio.google.com/).
 3. In Colab, click the key icon (Secrets) in the left sidebar and add a secret named `GEMINI_API_KEY` with your key as the value. Switch on Notebook access for it.
 4. Run all cells in order, top to bottom (Runtime > Run all).
-5. The Gradio app launches at the bottom of the notebook. Enter your numbers and click Submit. The calculator works even without a key, and Sage needs the key to reply.
+5. The Gradio app launches at the bottom of the notebook. Enter your numbers and click Submit. 
 
 
 ## Testing
@@ -51,7 +51,7 @@ The notebook has a testing section that checks the calculator and the app with a
 
 ## Known limitations
 
-- Sage relies on Google's Gemini API. On the free tier it can hit rate limits or return a 503 "high demand" error when Google's servers are busy. The app retries a few times and then shows a friendly message instead of crashing. The calculator works without Sage.
+- Sage relies on Google's Gemini API. On the free tier it can hit rate limits or return a 503 "high demand" error when Google's servers are busy. The app then shows a friendly message instead of crashing. The calculator works without Sage.
 - The app assumes a steady monthly income and expenses. This means if you have a changing monthly income or savings, it's hard to compute it in the calculator, meaning Sage can't give you a definitive answer on how to save money.
 
 ## Project structure

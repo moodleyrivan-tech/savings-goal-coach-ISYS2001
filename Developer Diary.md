@@ -2,7 +2,8 @@
 
 AI use Declaration: To design the format and plan the project, I used Claude (Anthropic) to help me. Additionally, I used it to gain inspiration for how to write my responses (Used Grammarly as well for grammar); however, most responses were my own ideas. I also used Claude to draft code; however, most of the troubleshooting of my code, if I did have problems, came from Google Gemini. Additionally, I also used Gemini as the main AI Coach in my app (coding).
 
-***Monday 12th October:***
+## Monday 12th October
+
 
 Main task- My main task for this day was to plan the overall structure of my assignment and complete part of my finance assistant file. I also had to plan how to finish the project in a week. 
 
